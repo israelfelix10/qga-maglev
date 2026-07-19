@@ -15,6 +15,7 @@ abstract: >-
   methodological, computational, analytical, and documentation developments.
 date-released: 2026-07-18
 version: 1.1.0
+repository-code: "https://github.com/israelfelix10/qga-maglev"
 references:
   - type: conference-paper
     title: "Quantum Genetic Algorithm Tuning of Interval Type-2 Fuzzy State Feedback Controllers for MAGLEV Servosystems"
