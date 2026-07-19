@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or its results, cite this repository and the associated conference chapter."
+title: "QGA tuning of fuzzy controllers for a MAGLEV system"
+type: software
+license: MIT
+authors:
+  - family-names: "de Lima"
+    given-names: "Israel da Silva Felix"
+    orcid: "https://orcid.org/0009-0006-2381-8691"
+abstract: >-
+  Research code and archived artifacts for evaluating a quantum-inspired
+  genetic algorithm in the tuning of type-1 and interval type-2 fuzzy state
+  feedback controllers for a magnetic levitation servosystem. The repository
+  extends the associated conference chapter with post-publication
+  methodological, computational, analytical, and documentation developments.
+date-released: 2026-07-18
+version: 1.1.0
+references:
+  - type: conference-paper
+    title: "Quantum Genetic Algorithm Tuning of Interval Type-2 Fuzzy State Feedback Controllers for MAGLEV Servosystems"
+    authors:
+      - family-names: "de Lima"
+        given-names: "Israel da Silva Felix"
+        orcid: "https://orcid.org/0009-0006-2381-8691"
+      - family-names: "de Araújo"
+        given-names: "Fábio Meneghetti Ugulino"
+        orcid: "https://orcid.org/0000-0001-8671-9507"
+    collection-title: "Computational Intelligence — IJCCI 2025"
+    collection-type: proceedings
+    conference:
+      name: "International Joint Conference on Computational Intelligence (IJCCI 2025)"
+    notes: "Communications in Computer and Information Science"
+    volume: 2827
+    start: 531
+    end: 548
+    publisher:
+      name: "Springer"
+      city: "Cham"
+    date-published: 2026-01-28
+    year: 2026
+    doi: "10.1007/978-3-032-15632-7_29"

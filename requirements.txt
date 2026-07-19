@@ -1,0 +1,16 @@
+clarabel==0.11.1
+cvxpy==1.9.1
+func-timeout==4.3.5
+geneticalgorithm==1.0.2
+ipykernel==7.2.0
+jupyter_client==8.8.0
+jupyter_core==5.9.1
+matplotlib==3.10.0
+nbclient==0.10.4
+nbconvert==7.17.1
+nbformat==5.10.4
+numpy==2.0.2
+scipy==1.16.3
+scs==3.2.11
+traitlets==5.14.3
+

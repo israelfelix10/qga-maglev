@@ -1,0 +1,32 @@
+QUANTUM GENETIC ALGORITHM (24.05.2016)
+R. Lahoz-Beltra
+
+PROVENIÊNCIA / PROVENANCE
+-------------------------
+Repositório upstream / Upstream repository:
+https://github.com/ResearchCodesHub/QuantumGeneticAlgorithms
+
+Commit de referência / Reference commit:
+d20ad57f0a2576a6c48d8c8c4f7870a6192275e8
+
+AVISO ORIGINAL DO ARQUIVO-FONTE / ORIGINAL SOURCE-FILE NOTICE
+-------------------------------------------------------------
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. THE
+SOFWTARE CAN BE USED BY ANYONE SOLELY FOR THE PURPOSES OF EDUCATION AND
+RESEARCH.
+
+LICENCIAMENTO / LICENSING
+-------------------------
+PT-BR: O repositório upstream publicou o QGA.py e a licença MIT no mesmo
+commit. A redistribuição e a adaptação são realizadas sob essa licença, com o
+copyright e o aviso de permissão preservados em
+ResearchCodesHub-QuantumGeneticAlgorithms-MIT.txt. O aviso original acima é
+mantido para rastreabilidade.
+
+EN-US: The upstream repository published QGA.py and the MIT License in the
+same commit. Redistribution and adaptation are performed under that license,
+with its copyright and permission notice preserved in
+ResearchCodesHub-QuantumGeneticAlgorithms-MIT.txt. The original notice above
+is retained for traceability.

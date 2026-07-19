@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Ambientes / Environments
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Credenciais e chaves locais / Local credentials and keys
+*.pem
+*.key
+*.p12
+credentials*.json
+secrets*.json
+
+# Jupyter
+.ipynb_checkpoints/
+results/notebooks/*.ipynb
+
+# IDE e sistema operacional / IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Artefatos temporários / Temporary artifacts
+*.log
+*.tmp
+build/
+dist/
+*.egg-info/
